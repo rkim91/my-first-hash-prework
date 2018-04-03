@@ -9,7 +9,6 @@ def shipping_manifest
     "porcelain vases" => 2
     "oil paintings" => 3
   }
-
 end
 
 def retrieval
